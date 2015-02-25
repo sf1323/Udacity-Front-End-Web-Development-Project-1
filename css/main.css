@@ -1,0 +1,105 @@
+﻿/* Headings */
+
+/* main-title and description-sub and sub-next-p color settings */
+.main-title,
+.description-sub,
+.description-sub-next-p {
+    color: #666;
+}
+
+/* main-title settings */
+
+.main-title {
+    font-size: 48px;
+
+    /* padding top, right, bottom, left */
+    padding: 25px 0px 0px 4px;
+}
+
+/* sub-title, main-sub-title color and font settings */
+
+.sub-title,
+.main-sub-title {
+    color: #f07c17;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* sub-title padding settings */
+
+.sub-title {
+    /* padding top, right, bottom, left */
+    padding: 0px 0px 26px 3px;
+}
+
+/* main-sub-title padding settings */
+
+.main-sub-title {
+    /* padding top, right, bottom, left */
+    padding: 0px 0px 20px 0px;
+}
+
+/* Content */
+
+/* set font for body of webpage */
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+/* description-sub, description-sub-next-p font settings */
+
+.description-sub,
+.description-sub-next-p {
+    font-size: 15.5px;
+    line-height: 2.0;
+    letter-spacing: -0.2px;
+}
+
+/* description-sub margin settings */
+
+.description-sub {
+    /* margin top, right, bottom, left */
+    margin: 0px 0px 0px 0px;
+}
+
+/* description-sub-next-p margin settings */
+
+.description-sub-next-p {
+    /* margin top, right, bottom, left */
+    margin: 10px 0px 0px 0px;
+}
+
+/* image setting in left column */
+
+.img-mug {
+
+    /* padding top, right, bottom, left */
+    padding: 22px 0px 30px 0px;
+
+    /* margin top, right, bottom, left */
+    margin: 0px 0px 0px 0px;
+}
+
+/* box outline in left column */
+
+.greybox {
+
+    /* padding top, right, bottom, left */
+    padding: 10px 10px 25px 27px;
+
+    /* margin top, right, bottom, left */
+    margin: 0px 0px 0px 0px;
+
+    /* ouline box in light grey */
+    outline: 1px solid lightgray;
+}
+
+/* bullet settings in left column */
+
+li {
+    font-size: 16px;
+
+    /* padding top, right, bottom, left */
+    padding: 0px 0px 10px 0px;
+}

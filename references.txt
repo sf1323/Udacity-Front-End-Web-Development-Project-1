@@ -1,0 +1,6 @@
+﻿Bootstrap                    - http://getbootstrap.com/
+CSS Validator                - http://jigsaw.w3.org/css-validator/#validate_by_input
+HTML validator               - http://validator.w3.org/#validate_by_input
+CSS Reference                - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+HTML Reference               - https://developer.mozilla.org/en-US/docs/Web/HTML
+Udacity HTML/CSS style guide - http://udacity.github.io/frontend-nanodegree-styleguide/index.html
